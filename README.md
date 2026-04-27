@@ -9,3 +9,6 @@ git push
 git clone https://github.com/Juniorkone225/projet_pp.git
 cd projet_pp
 code .
+
+<--- actualiser les fichier du projet --->
+git pull origin main
