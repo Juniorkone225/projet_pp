@@ -12,3 +12,8 @@ git pull
 git add .
 git commit -m "modification"
 git push
+
+
+
+git add lib/main.dart
+git commit -m "sauvegarde avant pull"
